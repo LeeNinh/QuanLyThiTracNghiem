@@ -1,6 +1,6 @@
-# ĐỒ ÁN QUẢN LÝ THI TRẮC NGHIỆM
+# BÀI TẬP LỚN QUẢN LÝ THI TRẮC NGHIỆM
 
-**Môn học:** Lập trình trực quan IT09  
+**Môn học:** Lập trình hướng sự kiện - IT09.BTL.018
 **Đề tài:** Đề 08 - Quản lý thi trắc nghiệm
 
 ---
